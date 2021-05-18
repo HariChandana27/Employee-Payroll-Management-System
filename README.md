@@ -16,7 +16,7 @@ This is an Employee Payroll Management System built using Oracle DB and python.
 <img width="471" alt="Screenshot 2021-05-18 at 8 35 30 PM" src="https://user-images.githubusercontent.com/59658022/118675885-972d8200-b818-11eb-88c6-c53322962230.png">
 
 ## Employee
-<img width="900" alt="Screenshot 2021-05-18 at 8 36 01 PM" src="https://user-images.githubusercontent.com/59658022/118675975-aa405200-b818-11eb-8b45-f0446f9930de.png">
+<img width="1279" alt="Screenshot 2021-05-18 at 8 44 19 PM" src="https://user-images.githubusercontent.com/59658022/118677372-d8726180-b819-11eb-9023-96a958209c18.png">
 
 ## Edit Employee
 <img width="390" alt="Screenshot 2021-05-18 at 8 36 16 PM" src="https://user-images.githubusercontent.com/59658022/118676031-b3312380-b818-11eb-8bb1-fcf2eda86167.png">
